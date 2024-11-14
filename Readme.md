@@ -1,0 +1,4 @@
+# how yo run this code
+
+npm start command
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazhvVzNmUlVlNHpxNUNIUGFNQ2Y4azBZY2E5QXxBQ3Jtc0traTdYcmsxdmVrc0tpNDRreGJpeGViU1NyWFF6QUc3WmdnU00wMlNNOFJTdmtJOFpSb2dqUlR1STdIVmtXaVFiZGhJaWtqb1NPbnhHWXJtQXNuQU1fMzlHVjBrZGZWYXlKNTNSR3ZrQ3NXT1lGeHBiRQ&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc
